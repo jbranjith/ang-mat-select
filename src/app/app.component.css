@@ -1,0 +1,7 @@
+.mat-select-arrow-wrapper {
+  background-image: url('assets/arrow_downward.svg');
+}
+
+.mat-select-arrow {
+  opacity: 0;
+}
